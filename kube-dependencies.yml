@@ -42,3 +42,5 @@
        name: kubectl=1.18.3-00
        state: present
        force: yes
+       
+  #with kubeadm
